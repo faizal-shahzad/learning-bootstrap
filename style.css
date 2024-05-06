@@ -1,0 +1,34 @@
+.carousel-item img{
+    height: 90vh;
+}
+.icon{
+    height: 100px;
+    width: 100px;
+}
+#foot{
+    background-color: blue;
+}
+.bod{
+    background-image: url(pictures/contact.webp);
+    height: 90vh;
+    width: 100%;
+    background-size: cover;
+}
+img {
+    max-width: 100%;
+    height: auto;
+  }
+body{
+    background-color: #809dee;
+  }
+
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px; /* Set the height of the container */
+  }
+  
+  .text {
+    text-align: center;
+  }
